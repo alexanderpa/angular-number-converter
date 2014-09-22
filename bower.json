@@ -1,0 +1,30 @@
+{
+  "name": "angular-number-converter",
+  "version": "1.0.0",
+  "main": "dist/angular-number-converter.js",
+  "description": "Provide service and filter to convert number in roman number or letter.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderpa/angular-number-converter.git"
+  },
+  "dependencies": {
+    "angular": "1.2.25",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.25"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "lib",
+    "test",
+    "src",
+    "Gruntfile.js",
+    ".gitignore",
+    "README.md",
+    "travis.yml",
+    ".bowercc"
+  ]
+}
